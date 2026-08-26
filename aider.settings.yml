@@ -1,0 +1,3 @@
+- name: gemini/gemini-3.5-flash
+  use_temperature: false
+  edit_format: whole
